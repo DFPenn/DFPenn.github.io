@@ -22,7 +22,7 @@ repository               : "DFPenn/HongXu.github.io"
 # Site Author
 author:
   name             : "Hong Xu"
-  avatar           : "images/生活照1.jpg"
+  avatar           : "images/zhaopian.jpg"
   bio              : "Minzu university of China"
   location         : "Beijing, China"
   employer         :
@@ -30,7 +30,7 @@ author:
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "hongxulalala@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :  https://HongXu.github.io
+  uri              :  https://DFPenn.github.io
   bitbucket        :
   codepen          :
   dribbble         :
