@@ -45,19 +45,19 @@ what a pity，but I am working hard on it.
 - *2019.09 - 2023.06*, School of Applied mathematics, Bachelor of Financial Mathematics. Nanjing University of Finance and Economics 
 
 # 💬 Research experience
-- *2023.07 - 2023.09*, Well-calibrated risk prediction model of binary outcomes with missing data Jul.-Oct.2023
+- *2023.07 - 2023.09*, *Well-calibrated risk prediction model of binary outcomes with missing data*
 • Assisted in establishing predictive models, addressing discordance between ”target” and ”data source”
 populations in breast cancer risk models by proposing a constrained calibration model using two-phase data.
 • Performed numerical simulations to gauge the model’s robustness with varied distributions in two-phase data,
-exploring diverse scenarios to validate its excellence under varying conditions.
-- *2023.09 - 2023.11*,Textual Data Reffnement and Patient Proffling in Electronic Health Records
+exploring diverse scenarios to validate its robustness.
+- *2023.09 - 2023.11*,*Textual Data Reffnement and Patient Proffling in Electronic Health Records*
 • Utilized NLP algorithms to systematically classify and organize electronic health records,and extract relevant
 medical indicators, creating a streamlined and organized representation of patient information.
-- *2023.12 - 2024.03*,Two-phase sampling and analysis for predicting binary outcomes
+- *2023.12 - 2024.03*,*Two-phase sampling and analysis for predicting binary outcomes*
 • Utilising a semiparametric model to estimate the predicted risk and the AUC under the TwoP-hase data. The
 model evaluation was conducted through simulations based on various two-stage sampling methods, including
 case-control, simple random sampling, balanced sampling, and R-balanced sampling.
-- *2023.09 - 2023.10*,Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke
+- *2023.09 - 2023.10*,*Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*
 • Processing Big Data in Electronic Health Records using Machine Learning,applied Boruta algorithm to identify
 signiffcant predictors for hematoma expansion and utilized the XGBoost regression model to forecast 90-day
 modiffed Rankin Scale (mRS) scores based on comprehensive feature sets.
