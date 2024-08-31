@@ -34,8 +34,11 @@ This is the introduction of a "newbie researcher," my homepage is quite simple a
 what a pity，but I am working hard on it.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* . First Prize in Graduate Group of Market Research and Analysis Competition
+- *2023.11* . Third prize in National Post-Graduate Mathematical Contest in Modeling
+- *2023.06* .Outstanding graduates
+- *2021.09* .Excellence Scholarship
+- *2020.11* .Excellence Scholarship
 
 # 📖 Educations
 - *2023.09 - present*, School of Science, Master of Applied Statistics. Minzu University of China 
@@ -44,4 +47,5 @@ what a pity，but I am working hard on it.
 # 💬 Invited Talks
 NO YET
 # 💻 Internships
-- *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab 
+- *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab
+- *2023.12 - 2024.04*, China Academy of Information and Communications Technology
