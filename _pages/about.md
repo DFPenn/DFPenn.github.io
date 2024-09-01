@@ -58,7 +58,7 @@ None so far，but I am working hard on it.
 - **2023.09 - 2023.10**, *Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*  
   - Processed Big Data in Electronic Health Records using machine learning, applied the Boruta algorithm to identify significant predictors for hematoma expansion, and utilized the XGBoost regression model to forecast 90-day modified Rankin Scale (mRS) scores based on comprehensive feature sets.
 
-For more, please refer to my [CV](https://github.com/DFPenn/DFPenn.github.io/raw/main/_data/HongXu-CV-08.pdf).:-)
+For more, please refer to my CV.<iframe src="https://github.com/DFPenn/DFPenn.github.io/raw/main/_data/HongXu-CV-08.pdf" width="100%" height="600px"></iframe>
 
 # 💻 Internships
 - *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab
