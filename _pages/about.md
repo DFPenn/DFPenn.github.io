@@ -62,3 +62,6 @@ None so far，but I am working hard on it.
 # 💻 Internships
 - *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab
 - *2023.12 - 2024.04*, China Academy of Information and Communications Technology
+
+# 📅 Daily
+- *2024.08*,a tricky situation,the theoretical variance and empirical variance did not match
