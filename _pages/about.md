@@ -45,22 +45,19 @@ None so far，but I am working hard on it.
 - *2019.09 - 2023.06*, School of Applied Mathematics, Bachelor of Financial Mathematics. Nanjing University of Finance and Economics 
 
 # 💬 Research Experience
-- *2023.07 - 2023.09*, *Well-calibrated risk prediction model of binary outcomes with missing data*  
-• Assisted in establishing predictive models, addressing discordance between "target" and "data source"
-populations in breast cancer risk models by proposing a constrained calibration model using two-phase data.
-• Performed numerical simulations to gauge the model’s robustness with varied distributions in two-phase data,
-exploring diverse scenarios to validate its robustness.
-- *2023.09 - 2023.11*,*Textual Data Refinement and Patient Proffling in Electronic Health Records*  
-• Utilized NLP algorithms to systematically classify and organize electronic health records,and extracted relevant
-medical indicators, creating a streamlined and organized representation of patient information.
-- *2023.12 - 2024.03*,*Two-phase sampling and analysis for predicting binary outcomes*  
-• Utilized a semiparametric model to estimate the predicted risk and the AUC under the TwoP-hase data. The
-model evaluation was conducted through simulations based on various two-stage sampling methods, including
-case-control, simple random sampling, balanced sampling, and R-balanced sampling.
-- *2023.09 - 2023.10*,*Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*  
-• Processed Big Data in Electronic Health Records using machine learning,applied Boruta algorithm to identify
-signifcant predictors for hematoma expansion and utilized the XGBoost regression model to forecast 90-day
-modified Rankin Scale (mRS) scores based on comprehensive feature sets.
+- **2023.07 - 2023.09**, *Well-calibrated risk prediction model of binary outcomes with missing data*  
+  - Assisted in establishing predictive models, addressing discordance between "target" and "data source" populations in breast cancer risk models by proposing a constrained calibration model using two-phase data.
+  - Performed numerical simulations to gauge the model’s robustness with varied distributions in two-phase data, exploring diverse scenarios to validate its robustness.
+
+- **2023.09 - 2023.11**, *Textual Data Refinement and Patient Profiling in Electronic Health Records*  
+  - Utilized NLP algorithms to systematically classify and organize electronic health records, and extracted relevant medical indicators, creating a streamlined and organized representation of patient information.
+
+- **2023.12 - 2024.03**, *Two-phase sampling and analysis for predicting binary outcomes*  
+  - Utilized a semiparametric model to estimate the predicted risk and the AUC under the two-phase data. The model evaluation was conducted through simulations based on various two-stage sampling methods, including case-control, simple random sampling, balanced sampling, and R-balanced sampling.
+
+- **2023.09 - 2023.10**, *Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*  
+  - Processed Big Data in Electronic Health Records using machine learning, applied the Boruta algorithm to identify significant predictors for hematoma expansion, and utilized the XGBoost regression model to forecast 90-day modified Rankin Scale (mRS) scores based on comprehensive feature sets.
+
 
 # 💻 Internships
 - *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab
