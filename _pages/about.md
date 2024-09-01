@@ -44,7 +44,7 @@ None so far，but I am working hard on it.
 - *2023.09 - present*, School of Science, Master of Applied Statistics. Minzu University of China 
 - *2019.09 - 2023.06*, School of Applied Mathematics, Bachelor of Financial Mathematics. Nanjing University of Finance and Economics 
 
-# 💬 Research Experience
+# 🔬 Research Experience 
 - **2023.07 - 2023.09**, *Well-calibrated risk prediction model of binary outcomes with missing data*  
   - Assisted in establishing predictive models, addressing discordance between "target" and "data source" populations in breast cancer risk models by proposing a constrained calibration model using two-phase data.
   - Performed numerical simulations to gauge the model’s robustness with varied distributions in two-phase data, exploring diverse scenarios to validate its robustness.
