@@ -65,5 +65,6 @@ None so far，but I am working hard on it.
 
 # 📅 Daily
 - *2024.08*,a tricky situation,the theoretical variance and empirical variance did not match
-  ![omg](images/hist of IDI empirical and asymptotic.svg)
+<img src="images/hist of IDI empirical and asymptotic.svg" alt="omg" style="width:300px; height:300px;"/>
+
 
