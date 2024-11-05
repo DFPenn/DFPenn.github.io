@@ -29,10 +29,12 @@ This is the introduction of a "newbie researcher". BTW...My website is quite sim
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I created my personal website.
 - *2024.10*: Our review paper "Two-phase Data Analysis Methods and Application" has accepted.
+- *2024.10*: Our collaborative paper titled "Associations of the TyG-Related Indicators and Overactive Bladder: Enhancing Risk Stratification in Middle-Aged and Elderly Populations" has been submitted.
+- *2024.10* ：Our collaborative paper titled "lmpacts of Tryptase on Prognosis of Patientswith Acute ST-Segment Elevation Myocardial Infarction" has been submitted.
 
 # 📝 Publications 
 
-None so far，but I am working hard on it.
+Working.
 
 # 🎖 Honors and Awards
 - *2024.10* . Outstanding Scholarship in MUC (Top 5%)
@@ -74,5 +76,5 @@ For more , please refer to my [CV](https://github.com/DFPenn/DFPenn.github.io/ra
 <img src="images/hist of IDI empirical and asymptotic.svg" alt="omg" style="width:300px; height:300px;"/>
 - *2024.10*, We have completed the manuscript of our paper :
   "Development and Evaluation of an Updated Risk Prediction Model Involving New Candidate Predictors"
-
+- *2024.11*,The application season is really hectic！：（
 
