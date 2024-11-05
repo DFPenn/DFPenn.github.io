@@ -27,16 +27,18 @@ This is the introduction of a "newbie researcher". BTW...My website is quite sim
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I created my personal website. 
+- *2024.08*: &nbsp;🎉🎉 I created my personal website.
+- *2024.10*: Our review paper "Two-phase Data Analysis Methods and Application" has accepted.
 
 # 📝 Publications 
 
 None so far，but I am working hard on it.
 
 # 🎖 Honors and Awards
-- *2024.05* . First Prize in Graduate Group of Market Research and Analysis Competition
+- *2024.10* . Outstanding Scholarship in MUC (Top 5%)
+- *2024.05* . First Prize in Graduate Group of Market Research and Analysis Competition (Top 1.9%)
 - *2023.11* . Third prize in National Post-Graduate Mathematical Contest in Modeling
-- *2023.06* .Outstanding Graduates
+- *2023.06* .Outstanding Graduates (Top 6%)
 - *2021.09* .Excellence Scholarship
 - *2020.11* .Excellence Scholarship
 
@@ -58,14 +60,19 @@ None so far，but I am working hard on it.
 - **2023.09 - 2023.10**, *Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*  
   - Processed Big Data in Electronic Health Records using machine learning, applied the Boruta algorithm to identify significant predictors for hematoma expansion, and utilized the XGBoost regression model to forecast 90-day modified Rankin Scale (mRS) scores based on comprehensive feature sets.
 
-For more , please refer to my [CV](https://github.com/DFPenn/DFPenn.github.io/raw/main/_data/HongXu-CV-08.pdf).
+For more , please refer to my [CV](https://github.com/DFPenn/DFPenn.github.io/raw/main/_data/HongXu-CV-11.pdf).
 
-# 💻 Internships
-- *2024.04 - 2024.09*, Tsinghua University Vanke School of Public Health,Tang Lab
+# 💻 Internships and Part-time RA
+
+- *2024.10 - Present*, Centre for Quantitative Medicine, Duke-NUS Medical School
+- *2024.04 - 2024.11*, Vanke School of Public Health, Tsinghua University
 - *2023.12 - 2024.04*, China Academy of Information and Communications Technology
+
 
 # 📅 Daily
 - *2024.08*,a tricky situation,the theoretical variance and empirical variance did not match
 <img src="images/hist of IDI empirical and asymptotic.svg" alt="omg" style="width:300px; height:300px;"/>
+- *2024.10*, We have completed the manuscript of our paper :
+  "Development and Evaluation of an Updated Risk Prediction Model Involving New Candidate Predictors"
 
 
