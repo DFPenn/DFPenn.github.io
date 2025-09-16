@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, welcome to my personal website! I am currently pursuing a master's degree in biostatistics at MUC and expect to graduate in June 2025. I’m passionate about biostatistics and hope to continue my research and studies in this field.
+Hi, welcome to my personal website! I am PhD student in statistics at RUC. I’m passionate about biostatistics and hope to continue my research and studies in this field.
 
-During my master's program, I have worked on several projects involving the application of statistical models in medicine. These include developing risk prediction models for cancer patients, evaluating the predictive performance of new factors in risk prediction models, and updating model performance. I have also explored non-parametric estimation of risk prediction models when dealing with expensive, new predictors that have missing data (two-phase data), sampling design for two-phase studies, and evaluating model performance with imbalanced data.
+During my research program, I have worked on several projects involving the application of statistical models in medicine. These include developing risk prediction models for cancer patients, evaluating the predictive performance of new factors in risk prediction models, and updating model performance. I have also explored non-parametric estimation of risk prediction models when dealing with expensive, new predictors that have missing data (two-phase data), sampling design for two-phase studies, and evaluating model performance with imbalanced data.
 
 I am also eager to continue learning about machine learning for healthcare. I’ve previously applied machine learning models to medical data mining, which I found incredibly fascinating, and I’m keen to delve deeper into this area.
 
@@ -45,8 +45,8 @@ Working.
 - *2020.11* .Excellence Scholarship
 
 # 📖 Education
-- *2023.09 - present*, School of Science, Master of Applied Statistics. Minzu University of China 
-- *2019.09 - 2023.06*, School of Applied Mathematics, Bachelor of Financial Mathematics. Nanjing University of Finance and Economics 
+- *2025.09 - present*, School of statistics, Renmin University of China 
+- *2023.09 - 2025.06*, School of Science, Master of Applied Statistics. Minzu University of China 
 
 # 🔬 Research Experience 
 - **2023.07 - 2023.09**, *Well-calibrated risk prediction model of binary outcomes with missing data*  
