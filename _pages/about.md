@@ -32,17 +32,26 @@ This is the introduction of a "newbie researcher". BTW...My website is quite sim
 - *2024.10*: Our collaborative paper titled "Associations of the TyG-Related Indicators and Overactive Bladder: Enhancing Risk Stratification in Middle-Aged and Elderly Populations" has been submitted.
 - *2024.10* ：Our collaborative paper titled "lmpacts of Tryptase on Prognosis of Patientswith Acute ST-Segment Elevation Myocardial Infarction" has been submitted.
 
-# 📝 Publications 
+# 📝 Publications and working paper
 
-Working.
+- *Co-author*. 
+- 
+- 
+- 
+- *first author*.
+- Comparing the Incremental Predictive Value of New Biomarkers Using Novel Reclassification Metrics (under review)
+- Semiparametric Estimation of Risk Prediction Metrics for Reclassification and High-Risk Prevention in Two Phase Studies (submitted)
+- Two-phase Data Analysis Methods and Application.
+- 
+- 
+
 
 # 🎖 Honors and Awards
+- *2025.06* . Excellent Graduation Thesis
 - *2024.10* . Outstanding Scholarship in MUC (Top 5%)
 - *2024.05* . First Prize in Graduate Group of Market Research and Analysis Competition (Top 1.9%)
 - *2023.11* . Third prize in National Post-Graduate Mathematical Contest in Modeling
 - *2023.06* .Outstanding Graduates (Top 6%)
-- *2021.09* .Excellence Scholarship
-- *2020.11* .Excellence Scholarship
 
 # 📖 Education
 - *2025.09 - present*, School of statistics, Renmin University of China 
