@@ -35,12 +35,13 @@ This is the introduction of a "newbie researcher". BTW...My website is quite sim
 # 📝 Publications and working paper
 
 - *Co-author*. 
-- 
+- Online Health-Seeking Behaviors and Information Needs Among Patients With Lymphoma in China: Study of Regional and Temporal Trends. Journal of Medical Internet Research.
+- Tryptase as a Biomarker for Adverse Prognosis in ST-Segment Elevation Myocardial Infarction Patients: A Prospective Cohort Study[J]. Journal of Inflammation Research, 2025: 3817-3828.
 - 
 - 
 - *first author*.
-- Comparing the Incremental Predictive Value of New Biomarkers Using Novel Reclassification Metrics (under review)
-- Semiparametric Estimation of Risk Prediction Metrics for Reclassification and High-Risk Prevention in Two Phase Studies (submitted)
+- A Comprehensive Comparison of AUC, NRI, and IDI for Evaluating the Incremental Value of New Biomarkers, with an Application in STEMI Patients.(revision submitted)
+- Semiparametric Estimation of Risk Prediction Metrics for Reclassification and High-Risk Prevention in Two Phase Studies (under review)
 - Two-phase Data Analysis Methods and Application.
 - 
 - 
