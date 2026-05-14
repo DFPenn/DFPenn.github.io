@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, welcome to my personal website! I am PhD student in statistics at RUC. I’m passionate about biostatistics and hope to continue my research and studies in this field.
+Hi, welcome to my personal website!
 
-During my research program, I have worked on several projects involving the application of statistical models in medicine. These include developing risk prediction models for cancer patients, evaluating the predictive performance of new factors in risk prediction models, and updating model performance. I have also explored non-parametric estimation of risk prediction models when dealing with expensive, new predictors that have missing data (two-phase data), sampling design for two-phase studies, and evaluating model performance with imbalanced data.
+I am a PhD student in Statistics at Renmin University of China. My research interests lie primarily in biostatistics, statistical modeling, and the application of quantitative methods to medical and public health problems. I am particularly interested in developing and evaluating statistical methods that can support risk prediction, biomarker assessment, and evidence generation in clinical research.
 
-I am also eager to continue learning about machine learning for healthcare. I’ve previously applied machine learning models to medical data mining, which I found incredibly fascinating, and I’m keen to delve deeper into this area.
+During my research training, I have worked on statistical modeling in medicine, including developing risk prediction models for cancer patients, evaluating the incremental predictive value of new biomarkers and developing nonparametric and semiparametric methods for risk prediction under two-phase sampling designs. I am also broadly interested in machine learning for biomedical and healthcare applications, especially in the analysis of GWAS, single-cell, and other high-dimensional omics data. Moving forward, I hope to develop and apply statistical and machine learning methods to improve our understanding of disease mechanisms, enhance risk prediction, and contribute to better health-related decision-making.
 
-This is the introduction of a "newbie researcher". BTW...My website is quite simple at the moment! I hope to gradually improve and enrich it over time. Thank you for taking the time to read this.
-
+Thank you for taking the time to visit my website.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I created my personal website.
