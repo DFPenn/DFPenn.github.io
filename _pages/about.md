@@ -21,7 +21,7 @@ Hi, welcome to my personal website!
 
 I am a PhD student in Statistics at Renmin University of China. My research interests lie primarily in biostatistics, statistical modeling, and the application of quantitative methods to medical and public health problems. I am particularly interested in developing and evaluating statistical methods that can support risk prediction, biomarker assessment, and evidence generation in clinical research.
 
-During my research training, I have worked on statistical modeling in medicine, including developing risk prediction models for cancer patients, evaluating the incremental predictive value of new biomarkers and developing nonparametric and semiparametric methods for risk prediction under two-phase sampling designs. I am also broadly interested in machine learning for biomedical and healthcare applications, especially in the analysis of GWAS, single-cell, and other high-dimensional omics data. Moving forward, I hope to develop and apply statistical and machine learning methods to improve our understanding of disease mechanisms, enhance risk prediction, and contribute to better health-related decision-making.
+During my research training, I have worked on statistical modeling in medicine, including developing risk prediction models for cancer patients, evaluating the incremental predictive value of new biomarkers and developing nonparametric and semiparametric methods for risk prediction under two-phase sampling designs. I am also broadly interested in machine learning in the analysis of GWAS, single-cell, and other high-dimensional omics data. Moving forward, I hope to develop statistical and machine learning methods to improve our understanding of disease mechanisms, enhance risk prediction, and contribute to better health related decision-making.
 
 Thank you for taking the time to visit my website.
 
@@ -49,7 +49,6 @@ Thank you for taking the time to visit my website.
 # 🎖 Honors and Awards
 - *2025.06* . Excellent Graduation Thesis
 - *2024.10* . Outstanding Scholarship in MUC (Top 5%)
-- *2024.05* . First Prize in Graduate Group of Market Research and Analysis Competition (Top 1.9%)
 - *2023.11* . Third prize in National Post-Graduate Mathematical Contest in Modeling
 - *2023.06* .Outstanding Graduates (Top 6%)
 
@@ -71,13 +70,13 @@ Thank you for taking the time to visit my website.
 - **2023.09 - 2023.10**, *Clinical Intelligent Diagnostic Modeling for Hemorrhagic Stroke*  
   - Processed Big Data in Electronic Health Records using machine learning, applied the Boruta algorithm to identify significant predictors for hematoma expansion, and utilized the XGBoost regression model to forecast 90-day modified Rankin Scale (mRS) scores based on comprehensive feature sets.
 
-For more , please refer to my [CV](https://github.com/DFPenn/DFPenn.github.io/raw/main/_data/HongXu-CV-11.pdf).
+For more , please refer to my [CV].
 
 # 💻 Internships and Part-time RA
 
 - *2024.10 - Present*, Centre for Quantitative Medicine, Duke-NUS Medical School
 - *2024.04 - 2024.11*, Vanke School of Public Health, Tsinghua University
-- *2023.12 - 2024.04*, China Academy of Information and Communications Technology
+- *2023.12 - 2024.04*, Cloud Computing and Big Data Research Institute, China Academy of Information and Communications Technology (CAICT)
 
 
 # 📅 Daily
